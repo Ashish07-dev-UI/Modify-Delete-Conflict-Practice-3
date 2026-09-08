@@ -1,2 +1,3 @@
 My name is Ashish.
 I am learning Git and GitHub.
+learning merging conflict.
